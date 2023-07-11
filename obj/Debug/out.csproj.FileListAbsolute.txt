@@ -1,0 +1,8 @@
+C:\Users\user\Documents\dotNet\Day-2\out\out\bin\Debug\@out.exe.config
+C:\Users\user\Documents\dotNet\Day-2\out\out\bin\Debug\@out.exe
+C:\Users\user\Documents\dotNet\Day-2\out\out\bin\Debug\@out.pdb
+C:\Users\user\Documents\dotNet\Day-2\out\out\obj\Debug\out.csproj.AssemblyReference.cache
+C:\Users\user\Documents\dotNet\Day-2\out\out\obj\Debug\out.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\dotNet\Day-2\out\out\obj\Debug\out.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\dotNet\Day-2\out\out\obj\Debug\@out.exe
+C:\Users\user\Documents\dotNet\Day-2\out\out\obj\Debug\@out.pdb
