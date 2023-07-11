@@ -13,7 +13,7 @@ namespace @out
             double sum = 0;
             foreach(double number in numbers)
             {
-                sum += number;
+               sum += number;
             }
             Console.WriteLine("Total of Number is : \t" + sum);
         }
